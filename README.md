@@ -14,7 +14,7 @@ This is a fully containerised Flask web application connected to Redis using Doc
 
 # Technologies Used:
 
-- Python 3.8
+- Python 3.9
 
 - Flask
 
