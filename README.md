@@ -23,3 +23,14 @@ This is a fully containerised Flask web application connected to Redis using Doc
 - Docker
 
 - Docker Compose
+
+# Local Setup:
+
+# Clone Repository:
+
+git clone https://github.com<your-username>/docker-flask-redis-app.git
+cd docker-flask-redis-app
+
+# Build and Start Container:
+
+docker compose up --build
