@@ -35,5 +35,10 @@ cd docker-flask-redis-app
 
 docker compose up --build
 
+<img width="1211" height="749" alt="image" src="https://github.com/user-attachments/assets/d8002092-89b0-4de0-9767-596f6967eefb" />
 
-<img width="1302" height="604" alt="image" src="https://github.com/user-attachments/assets/e229ee6a-4c2a-44bb-92b0-50c4f5f8fb2f" />
+# Open in your browser:
+
+- Home Page:
+
+http://localhost:5002/
