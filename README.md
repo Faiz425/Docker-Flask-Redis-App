@@ -4,22 +4,22 @@ This is a fully containerised Flask web application connected to Redis using Doc
 
 # Features:
 
-Running a Flask app inside Docker
+- Running a Flask app inside Docker
 
-Dockerised setup
+- Dockerised setup
 
-One command setup using Docker Compose
+- One command setup using Docker Compose
 
-Persistent Redis storage
+- Persistent Redis storage
 
-Technologies Used:
+# Technologies Used:
 
-Python 3.8
+- Python 3.8
 
-Flask
+- Flask
 
-Redis
+- Redis
 
-Docker
+- Docker
 
-Docker Compose
+- Docker Compose
