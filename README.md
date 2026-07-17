@@ -42,3 +42,5 @@ docker compose up --build
 - Home Page:
 
 http://localhost:5002/
+
+<img width="1579" height="633" alt="image" src="https://github.com/user-attachments/assets/71062975-880c-4454-a079-d19f1204e095" />
