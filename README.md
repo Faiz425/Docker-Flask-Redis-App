@@ -34,3 +34,6 @@ cd docker-flask-redis-app
 # Build and Start Container:
 
 docker compose up --build
+
+
+<img width="1302" height="604" alt="image" src="https://github.com/user-attachments/assets/e229ee6a-4c2a-44bb-92b0-50c4f5f8fb2f" />
